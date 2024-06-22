@@ -1,2 +1,1 @@
-# currency__converter
-easiest way to convert your currency
+"# currency-converter" 
